@@ -30,7 +30,7 @@
     "soldoc": "cli.js"
   },
   "dependencies": {
-    "@hubiinetwork/markdown": "^0.5.0-alpha.0",
+    "@hubiinetwork/markdown": "^0.5.0-alpha.3",
     "chalk": "^2.3.1",
     "deep-assign": "^2.0.0",
     "fs-extra": "^5.0.0",
