@@ -1,5 +1,5 @@
 {
-	"name": "@soldoc/json",
+	"name": "@hubiinetwork/json",
 	"version": "0.1.0",
 	"publishConfig": {
 		"access": "public"
@@ -16,8 +16,9 @@
 	],
 	"description": "Json theme for SolDoc",
 	"main": "index.js",
-	"repository": "https://github.com/dev-matan-tsuberi/soldoc/tree/master/packages/json",
-	"author": "[your name] <[your email]>",
+	"repository": "https://github.com/hubiinetwork/soldoc",
+	"author": "Matan Tsuberi <dev.matan.tsuberi@gmail.com>",
+	"contributors": ["Jens Ivar Jørdre <jensivar@hubii.com>"],
 	"license": "MIT",
 	"private": false
 }
