@@ -13,7 +13,7 @@
     "generator",
     "natspec"
   ],
-  "version": "0.5.0-alpha.0",
+  "version": "0.5.0-alpha.3",
   "description": "Solidity documentation generator",
   "main": "index.js",
   "repository": "https://github.com/hubiinetwork/soldoc",
@@ -41,5 +41,6 @@
   },
   "devDependencies": {
     "zeppelin-solidity": "^1.6.0"
-  }
+  },
+  "gitHead": "ddedf99b7ccbbed281f92fa1c684ae034e1a47cd"
 }

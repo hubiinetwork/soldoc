@@ -1,6 +1,6 @@
 {
 	"name": "@hubiinetwork/json",
-	"version": "0.5.0-alpha.0",
+	"version": "0.5.0-alpha.3",
 	"publishConfig": {
 		"access": "public"
 	},
@@ -22,5 +22,6 @@
 		"Jens Ivar Jørdre <jensivar@hubii.com>"
 	],
 	"license": "MIT",
-	"private": false
+	"private": false,
+	"gitHead": "ddedf99b7ccbbed281f92fa1c684ae034e1a47cd"
 }
