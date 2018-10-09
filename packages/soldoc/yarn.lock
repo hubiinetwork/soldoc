@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@soldoc/markdown@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@soldoc/markdown/-/markdown-0.1.0.tgz#9f85be75049af9721b5129f133d52dafbf5f671e"
-  integrity sha512-V0UnvVVJ1qDzpuKLMuh7oHG94puwi8BI3t99Vrr7dQgIHuJdfZJ4SbGuWuFV/fSthyH++WY4ePO3d6gxfZ2//w==
+"@hubiinetwork/markdown@latest":
+  version "0.5.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@hubiinetwork/markdown/-/markdown-0.5.0-alpha.3.tgz#ffb03f752957c936cc557abbcf9114c43220e3c9"
+  integrity sha512-HVBJrQ9day01NfxecrJxA4pi+u3zFqC4PnD6wEFFoFrBYGgwf4gjNIZ7H+cjSZB9SacZqWNMLfYp+Z3AwI6ZQQ==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
