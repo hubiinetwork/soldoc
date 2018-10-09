@@ -63,8 +63,8 @@ module.exports = (filepath, contractName, info, opts) => {
             }${docs(m)}${N
             }${gas(m)}${N
             }${attrs(m)}${N
-            }${Object.keys(m.params).length ? params(m) : ''}${N
-            }${Object.keys(m.outputs).length ? outputs(m) : ''}${''
+            }${m.params && Object.keys(m.params).length ? params(m) : ''}${N
+            }${m.outputs && Object.keys(m.outputs).length ? outputs(m) : ''}${''
             }`
         ;
 
