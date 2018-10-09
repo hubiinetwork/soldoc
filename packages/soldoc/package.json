@@ -13,12 +13,14 @@
     "generator",
     "natspec"
   ],
-  "version": "0.4.3",
+  "version": "0.5.0-alpha.0",
   "description": "Solidity documentation generator",
   "main": "index.js",
   "repository": "https://github.com/hubiinetwork/soldoc",
   "author": "Matan Tsuberi <dev.matan.tsuberi@gmail.com>",
-  "contributors": ["Jens Ivar Jørdre <jensivar@hubii.com>"],
+  "contributors": [
+    "Jens Ivar Jørdre <jensivar@hubii.com>"
+  ],
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -28,7 +30,7 @@
     "soldoc": "cli.js"
   },
   "dependencies": {
-    "@hubiinetwork/markdown": "^0.1.0",
+    "@hubiinetwork/markdown": "^0.5.0-alpha.0",
     "chalk": "^2.3.1",
     "deep-assign": "^2.0.0",
     "fs-extra": "^5.0.0",
