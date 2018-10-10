@@ -170,7 +170,7 @@ soldoc.defaults = {
     // repoUrl: undefined,
     // log: undefined,
     quiet: false,
-    theme: '@soldoc/markdown',
+    theme: '@hubiinetwork/markdown',
 };
 
 module.exports = soldoc;
